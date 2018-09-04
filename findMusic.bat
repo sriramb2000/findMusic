@@ -1,1 +1,1 @@
-@pyw C:\Users\srira\Projects\python\handy\findMusic\findMusic.pyw %*
+@pyw {INSERT_PATH_HERE}findMusic.pyw %*
